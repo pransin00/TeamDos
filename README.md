@@ -1,6 +1,6 @@
 # TeamDos
 ## Contributors
-- Master Maintainer
+-Jonson, Francine Yzabel L. - Main Master
 -Novero, Alexa Elvie Camille H./Contributor
 -Desacola, Allen John Y./Contributor
 -Capacia, Lyka Mae R./Contributor
